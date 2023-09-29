@@ -1,0 +1,3 @@
+time(s)	imsi	SC	cRelayId	sRelayId
+4.88	3	33	0	1	
+11.64	4	33	0	1	
